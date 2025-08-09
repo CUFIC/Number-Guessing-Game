@@ -32,4 +32,5 @@ while user_guess != goal:
 
 
 #This prints after the user has guessed the number correctly.
+
 print("Congratulations! You guessed the number correctly.")
